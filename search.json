@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sarah Stukalin",
+    "section": "",
+    "text": "plot(iris, pch=20, cex=.5, col=\"firebrick\")"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Sarah Stukalin is studying data science, AI, and neuroscience at the University of Texas at Dallas\n\nplot(Titanic)"
+  }
+]
